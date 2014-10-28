@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.sukhothaiWeb.client.GreetingService
+path: A19907059DBC1E90286F251C45C34D05.gwt.rpc
