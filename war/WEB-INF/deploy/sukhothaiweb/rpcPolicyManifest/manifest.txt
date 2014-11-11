@@ -1,2 +1,3 @@
 # Module sukhothaiweb
 # RPC service class, partial path of RPC policy file
+th.ac.utcc.sukhothaiWeb.client.GreetingService, A19907059DBC1E90286F251C45C34D05.gwt.rpc

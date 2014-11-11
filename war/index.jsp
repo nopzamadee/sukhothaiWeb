@@ -25,7 +25,7 @@ body {
   </tr>
   <tr>
     <td width="220"><img src="images/but01.png" width="213" height="61" /></td>
-    <td width="220"><img src="images/but02.png" width="213" height="61" /></td>
+    <td width="220"><a href="travel.html"><img src="images/but02.png" width="213" height="61" /></td>
     <td width="220"><img src="images/but03.png" width="213" height="61" /></td>
     <td width="220"><img src="images/but04.png" width="213" height="61" /></td>
     <td width="220"><a href="sec.html"><img src="images/but05.png" width="213" height="61" border="0" /></a></td>
